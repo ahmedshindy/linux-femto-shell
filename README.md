@@ -15,6 +15,9 @@ In the terminal navigate to the download directory/repo-name & type
   make build : to build the program
   make run   : to run 
 ```
+Alternatively you can run and test on github, Just open the repo and hit
+   the dot key on the keyboard (.), This will open a VS Code environment to you.
+   open a terminal `ctrl+ '`'`. then type makefile commands as usual.
 ### Usage 
 ```shell
 - linux-command <flags> : run any external command as it usually runs on bash
